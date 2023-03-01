@@ -1,0 +1,6 @@
+usr/local/bin/taichicoin-qt usr/bin
+share/pixmaps/taichicoin32.xpm usr/share/pixmaps
+share/pixmaps/taichicoin16.xpm usr/share/pixmaps
+share/pixmaps/taichicoin128.png usr/share/pixmaps
+debian/taichicoin-qt.desktop usr/share/applications
+debian/taichicoin-qt.protocol usr/share/kde4/services/

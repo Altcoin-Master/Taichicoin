@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[taichicoin.qt-translation-012x]
+file_filter = src/qt/locale/taichicoin_<lang>.ts
+source_file = src/qt/locale/taichicoin_en.ts
+source_lang = en

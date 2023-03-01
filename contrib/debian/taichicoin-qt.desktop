@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Taichicoin Core
+Comment=Taichicoin P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Taichicoin peer-to-peer Netzwerk
+Comment[fr]=Taichicoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Taichicoin, eşten eşe kriptografik sanal para birimi
+Exec=taichicoin-qt %u
+Terminal=false
+Type=Application
+Icon=taichicoin128
+MimeType=x-scheme-handler/taichicoin;
+Categories=Office;Finance;
