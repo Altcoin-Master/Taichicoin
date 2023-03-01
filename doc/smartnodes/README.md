@@ -107,8 +107,8 @@ adduser <username_here>
 Get Taichicoin wallet / daemon and bootstrap:
 
 ```bash
-mkdir -p ltrm_latest
-cd ltrm_latest
+mkdir -p latest
+cd latest
 # Replace the following <version> numbers with the latest
 wget https://github.com/Altcoin-Master/Taichicoin/releases/download/v<version>/taichicoin-<version>.zip
 unzip taichicoin-<version>.zip
