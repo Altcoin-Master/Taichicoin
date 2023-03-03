@@ -108,6 +108,7 @@ Get Taichicoin wallet / daemon and bootstrap:
 
 ```bash
 mkdir -p latest
+sudo chmod -R 755 latest
 cd latest
 # Replace the following <version> numbers with the latest
 wget https://github.com/Altcoin-Master/Taichicoin/releases/download/v<version>/taichicoin-<version>.zip
